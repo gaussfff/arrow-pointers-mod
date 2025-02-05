@@ -1,19 +1,29 @@
-.idea/
-.gradle/
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
 
-out/
-build/
-
+# idea
+out
+*.ipr
 *.iws
 *.iml
-*.ipr
-*.class
-*.jar
-*.war
-*.ear
-*.log
-*.swp
+.idea
 
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+runs
+run-data
+
+repo
+
+# MacOS
 .DS_Store
-
-Thumbs.db
