@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "arrowpointers:item/arrow_pointer"
-  }
-}
