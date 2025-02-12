@@ -1,4 +1,6 @@
 {
-  "item.arrowpointers.arrow_pointer": "Arrow Pointer",
-  "block.arrowpointers.arrow_pointer": "Arrow Pointer"
+  "item.arrowpointers.oak_arrow_pointer": "Oak Arrow Pointer",
+
+  "block.arrowpointers.oak_standing_arrow_pointer": "Standing Oak Arrow Pointer",
+  "block.arrowpointers.oak_wall_arrow_pointer": "Wall Oak Arrow Pointer"
 }

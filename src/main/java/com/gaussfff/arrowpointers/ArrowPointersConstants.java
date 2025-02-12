@@ -7,5 +7,4 @@ public final class ArrowPointersConstants {
     }
 
     public static final String MODID = "arrowpointers";
-    public static final String MODNAME = "Arrow Pointers";
 }
